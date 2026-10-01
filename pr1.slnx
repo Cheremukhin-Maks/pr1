@@ -1,0 +1,20 @@
+<Solution>
+  <Project Path="pr1 taks2.1/pr1 taks2.1.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="54450bd0-650d-475c-9a42-e7ce520edddf">
+    <Build Project="false" />
+  </Project>
+  <Project Path="pr1 task1.2/pr1 task1.2.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="1c9ab1ed-2675-411b-a137-bb8b97b9010f">
+    <Build Project="false" />
+  </Project>
+  <Project Path="pr1 task2.2/pr1 task2.2.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="fe5425ba-4bf7-41c0-a79b-381851645e6b">
+    <Build Project="false" />
+  </Project>
+  <Project Path="pr1 task3.1/pr1 task3.1.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="c203b270-62c9-40a1-ba72-8ee534b2a5d2">
+    <Build Project="false" />
+  </Project>
+  <Project Path="pr1 task3.2/pr1 task3.2.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="6ec57f0d-ad58-4b6f-bc04-983b76e7670a">
+    <Build Project="false" />
+  </Project>
+  <Project Path="pr1/pr1.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="0d16e08f-8fef-4bfd-b588-d6b0c71d65ff">
+    <Build Project="false" />
+  </Project>
+</Solution>
